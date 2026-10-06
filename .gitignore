@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+.DS_Store
+.cache/
+.cache_huggingface/
+repos/
+tmp/
+*.pt
+*.bin
+*.safetensors
